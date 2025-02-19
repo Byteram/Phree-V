@@ -1,3 +1,15 @@
+/**
+ * @file main.c
+ * @author Victor Matos (@SpacemanY2K38)
+ * @date 2023-10-25
+ * @brief Phree-V: A simple YouTube video downloader using yt-dlp.
+ *
+ * This program extracts the video ID from a YouTube URL, constructs a yt-dlp
+ * command, and downloads the video in the specified format.
+ *
+ * @license GPL-3.0
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
